@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>saper/bomb.png</file>
+        <file>saper/flag.png</file>
+        <file>saper/hide.png</file>
+        <file>saper/open.png</file>
+        <file>saper/1.png</file>
+        <file>saper/2.png</file>
+        <file>saper/3.png</file>
+        <file>saper/4.png</file>
+        <file>saper/5.png</file>
+        <file>saper/6.png</file>
+        <file>saper/7.png</file>
+        <file>saper/8.png</file>
+    </qresource>
+</RCC>
